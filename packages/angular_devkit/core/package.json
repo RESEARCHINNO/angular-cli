@@ -9,11 +9,11 @@
   ],
   "dependencies": {
     "ajv-formats": "2.1.1",
-    "ajv": "8.9.0",
+    "ajv": "8.12.0",
     "fast-json-stable-stringify": "2.1.0",
-    "magic-string": "0.25.7",
+    "magic-string": "0.30.0",
     "rxjs": "6.6.7",
-    "source-map": "0.7.3"
+    "source-map": "0.7.4"
   },
   "peerDependencies": {
     "chokidar": "^3.5.2"
